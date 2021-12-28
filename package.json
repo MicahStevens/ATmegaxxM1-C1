@@ -1,0 +1,16 @@
+{
+  "name": "framework-arduino-atmegaxxm1-c1",
+  "version": "1.6.10",
+  "description": "Arduino AVR Core and platform for atmegaXXM1 ICs",
+  "keywords": [
+    "framework",
+    "arduino",
+    "espressif",
+    "esp32"
+  ],
+  "license": "LGPL-2.1-or-later",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MicahStevens/ATmegaxxM1-C1"
+  }
+}
